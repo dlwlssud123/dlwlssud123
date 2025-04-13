@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-@wls_sud
-vbnm963245@gmail.com                                                                  
+[![Gmail Badge](https://img.shields.io/badge/-vbnm963245@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:vbnm963245@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@wls_sud-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/wls_sud)                                                                
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
